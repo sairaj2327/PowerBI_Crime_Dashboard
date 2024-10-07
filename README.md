@@ -1,8 +1,8 @@
-# PowerBI_Crime_Dashboard
+# Crimes_in_India_PowerBI_Dashboard
 
 ## Project Overview
 
-**Project Title**: PowerBI_Crime_Dashboard
+**Project Title**:  Crimes_in_India_PowerBI_Dashboard
 
 
 This project focuses on analyzing crime data across different states in India. The project involves setting up a Power BI dashboard that visualizes crime statistics by category, state, and year. It leverages multiple chart types to provide insights into crime trends, top states with high and low crime rates, and category distributions.
